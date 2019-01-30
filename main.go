@@ -1,6 +1,6 @@
 package main
 import (
-	ipfsutils "./ipfs_utils"
+	ipfsutils "github.com/gaozhengxin/simple-ipfs-api/ipfs_utils"
 	"encoding/base64"
 	"flag"
 	"io"

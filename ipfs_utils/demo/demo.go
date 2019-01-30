@@ -1,7 +1,7 @@
 package main
 
 import (
-	".."
+	"github.com/gaozhengxin/simple-ipfs-api/ipfsutils"
 	"encoding/base64"
 	"fmt"
 	"strings"
